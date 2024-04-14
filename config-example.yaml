@@ -1,0 +1,5 @@
+# Create `config.yaml` file with the following properties
+aws:
+  region: "ap-southeast-2"
+  account_id: "123456789012"
+app_name: cost-reports

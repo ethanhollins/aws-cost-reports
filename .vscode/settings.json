@@ -1,0 +1,17 @@
+{
+  "[python]": {
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.wordBasedSuggestions": "off",
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.tabSize": 4
+  },
+  "[yaml]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "diffEditor.ignoreTrimWhitespace": false
+  }
+}
